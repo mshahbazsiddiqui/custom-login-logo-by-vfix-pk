@@ -1,0 +1,17 @@
+/**
+ * Custom Login Logo by VFIX.PK - Admin CSS
+ * Minor styling for the settings page. Scoped to .cll-settings-wrap so it
+ * cannot leak into or affect any other admin screen.
+ */
+
+.cll-settings-wrap .cll-preview-wrap {
+	margin-bottom: 10px;
+}
+
+.cll-settings-wrap #cll-logo-preview {
+	display: block;
+	border: 1px solid #dcdcde;
+	background: #f6f7f7;
+	padding: 12px;
+	border-radius: 4px;
+}
